@@ -17,4 +17,5 @@ public class Main {
     public static int budget() {
         return 5678;
     }
+	System.out.println("Hello")
 }
